@@ -1,0 +1,17 @@
+{
+  "name": "comedy-app",
+  "description": "app",
+  "main": "",
+  "authors": [
+    "Isabella Abatgis <abatgis@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
